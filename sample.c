@@ -2,5 +2,6 @@
 
  int main() {
  printf("Hello World");
-print("Jake anong ginagawa mo");
+ printf("Jake anong ginagawa mo");
+ printf("hell");
 }
