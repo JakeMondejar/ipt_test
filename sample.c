@@ -3,5 +3,5 @@
  int main() {
  printf("Hello World");
  printf("Jake anong ginagawa mo");
- printf("hell");
+ printf("hello jake");
 }
